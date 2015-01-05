@@ -44,8 +44,8 @@ OR you can just install it with WordPress by going to Plugins >> Add New >> and 
 
 == Screenshots ==
 
-1. The customer can award a referral to a specific affiliate at checkout
-1. The plugin's settings
+1. The add-ons's settings from Affiliates &rarr; Settings &rarr; Integrations
+1. The select menu at checkout that a customer can use to award a commission to an affiliate
 
 == Upgrade Notice ==
 Changed the default text that is shown at checkout
