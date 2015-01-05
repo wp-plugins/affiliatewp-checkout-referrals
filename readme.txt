@@ -15,12 +15,12 @@ Allow customers to select who should receive a commission at checkout
 
 AffiliateWP Checkout Referrals allows a customer to select an affiliate at checkout to receive commission from their purchase. It's especially useful for sites whose affiliates are NPO (Nonprofit organizations). A customer can select the NPO from checkout, and that NPO will receive a commission on the sale. If an affiliate link is already being tracked (Eg /?ref=123, the affiliate list is not shown at checkout.
 
-Currently supported integrations:
+**Currently supported integrations**
 
 1. Easy Digital Downloads
 2. WooCommerce
 
-*Features:*
+**Features:**
 
 1. Shows a select menu at checkout (but only when a referral link is not used) that allows a customer to select an affiliate that their purchase will be credited to.
 1. Adds a payment note to the order screen showing the referral ID, amount recorded for affiliate, and affiliate's name
@@ -40,7 +40,7 @@ Currently supported integrations:
 1. Activate this plugin
 1. Configure the options from Affiliates &rarr; Settings &rarr; Integrations
 
-OR you can just install it with WordPress by going to Plugins >> Add New >> and type this plugin's name
+OR you can just install it with WordPress by going to Plugins &rarr; Add New &rarr; and type this plugin's name
 
 == Screenshots ==
 
